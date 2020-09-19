@@ -14,7 +14,7 @@ description="This is the Streamin Demons build. It requires RealDebrid and Trakt
 
 name="Streamin Demons Lite"
 version="1.0"
-url="https://cloud.chronixxx.net/s/HgpN9Bf67CJ36TR/download"
+url="https://cloud.chronixxx.net/s/qsmHXNjxmBiN3gn/download"
 minor="http://"
 gui="http://"
 kodi="18.0"
